@@ -1,0 +1,6 @@
+{
+    "mongoURI" : "mongodb+srv://Shivendr:StrayBeast12345@devworld.qybvy.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret" : "mysecrettoken" ,
+    "githubClientId" : "c76b210ea7d0b49876ff",
+    "githubClientSecret" : "99e902db4c7438f18a84d958341e6c066d13c3bb"
+}
